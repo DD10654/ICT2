@@ -2,7 +2,19 @@
 	text-align: center;
 }
 
-#wit , #videos , #websites
+#wit
+{
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+#videos
+{
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+#websites
 {
 	padding-top: 50px;
 	padding-bottom: 50px;
